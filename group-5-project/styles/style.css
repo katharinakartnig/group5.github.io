@@ -161,6 +161,13 @@ p {
   margin-left: 0px;
 }
 
+blockquote {
+ margin-left: 35%;
+ margin-right: 35%;
+ font-size: 110%;
+ text-align: center;
+}
+
 footer {
 	/* Hier Farbe des Footers ändern */
 	background-color: #060;
